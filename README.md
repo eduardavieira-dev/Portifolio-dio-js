@@ -1,5 +1,6 @@
 # Portfólio Dio Java Script
 
+<img src="./data/img/portifolio-desktop.png" alt="Imagem do sistema">
 Bem-vindo ao portfólio online de Eduarda Vieira, onde você pode conhecer mais sobre minha trajetória acadêmica, habilidades, formações e projetos realizados.
 
 ## Sobre
