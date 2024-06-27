@@ -56,3 +56,18 @@ Através deste portfólio, você pode conhecer um pouco mais sobre minha experi�
 1. Clone o repositório:
    ```bash
    git clone https://github.com/eduardavieira-dev/Portifolio-dio-js.git
+
+
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd Portifolio-dio-js
+   ```
+
+3. Abra o arquivo `index.html` no seu navegador de preferência.
+
+## Links Úteis
+
+- **Figma:** [Design do Portfólio](https://www.figma.com/design/g6zA6klLrCWZAp76tzoVJZ/Portfolio---EDUCATION?node-id=15192-45&t=hzEM0TubDwgXcVka-0)
+- **Curso:** [Criando e Estilizando uma Página de Portfólio Profissional com CSS e JavaScript](https://web.dio.me/course/criando-e-estilizando-uma-pagina-de-portfolio-profissional-com-css-e-javascript/learning/c10e5bf9-79ef-47b1-9195-d602e11522b5?back=/track/formacao-javascript-developer&tab=undefined&moduleId=undefined)
+
+
