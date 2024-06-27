@@ -55,4 +55,4 @@ Através deste portfólio, você pode conhecer um pouco mais sobre minha experi�
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/eduardavieira-dev/Portifolio-dio-js.git)
+   git clone https://github.com/eduardavieira-dev/Portifolio-dio-js.git
